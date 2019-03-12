@@ -29,7 +29,7 @@
     "babel-preset-react-hmre": "^1.1.1",
     "babel-preset-stage-0": "^6.22.0",
     "babel-runtime": "^6.23.0",
-    "rimraf": "^2.6.2"    
+    "rimraf": "^2.6.2"
   },
   "lint-staged": {
     "packages/**/*.{js,jsx}": [
@@ -37,8 +37,5 @@
       "eslint",
       "git add"
     ]
-  },
-  "dependencies": {
-    "@xweb/xweb-tools": "^2.0.3"
   }
 }
